@@ -4,6 +4,6 @@ You can find the 2026 Telemetry stream here:
 
 (NOTE: THIS IS THE OLD VERSION OF THE TSS. The new version will be provided when we have it ready.)
 
-https://github.com/SUITS-Techteam/TSS_2026
+https://github.com/SUITS-Techteam/TSS2026
 
 If you have any questions please contact our team: nasa-suits@mail.nasa.gov
